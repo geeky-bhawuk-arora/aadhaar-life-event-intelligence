@@ -1,0 +1,11 @@
+lepi:
+  frequency_weight: 0.4
+  diversity_weight: 0.3
+  temporal_weight: 0.3
+
+mobility:
+  address_weight: 0.6
+  mobile_weight: 0.4
+
+thresholds:
+  anomaly_zscore: 2.5
