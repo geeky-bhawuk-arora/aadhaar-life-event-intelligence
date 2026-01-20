@@ -165,7 +165,6 @@ aadhaar-life-event-intelligence/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-tree --dirsfirst -L 3
 ```
 
 
